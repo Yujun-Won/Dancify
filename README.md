@@ -1,7 +1,7 @@
 # 🕺 Dancify
 
-### 춤을 배우고 싶은 모두를 위한 AI 안무 연습 서비스
-![포스터_최종](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/070c9340-09a1-4089-bed5-3ec692ead3dd)
+### 춤을 배우고 싶은 모두를 위한 AI 안무 연습 서비스 (🏆 AIVLE SCHOOL 빅 프로젝트 우수상 수상)
+![포스터_최종](https://github.com/Yujun-Won/Dancify/assets/124374862/7a366011-b023-4388-97bd-31aa643a7602)
 
 ## 목차
 1. [프로젝트 소개](#1-프로젝트-소개)
@@ -47,25 +47,26 @@
 - AI를 통해 실시간 점수와 구간별 점수를 제공받을 수 있습니다.
 - 음성 조작을 통해 보다 편리한 사용자 경험을 제공합니다.
 
-<img width="2044" alt="댄서게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/628803df-67ca-40e8-b293-a7f5ebecadff">
-<img width="2044" alt="댄서 게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/ce140a06-47bc-4c87-9f46-ef7ae8f1dbc9">
-<img width="2044" alt="댄서게시판3" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/a0c186a1-00c0-4815-bdf3-45ca3415eefa">
-<img width="2044" alt="댄서게시판4" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/42bccfe2-0ba8-4000-b3b1-08a90dd4c6bb">
+<img width="2044" alt="댄서게시판1" src="https://github.com/Yujun-Won/Dancify/assets/124374862/cfac36da-a004-4428-bddd-2a16956c1e13">
+<img width="2044" alt="댄서게시판2" src="https://github.com/Yujun-Won/Dancify/assets/124374862/d043b3af-a59e-4c04-84d5-9954cb976736">
+<img width="2044" alt="댄서게시판3" src="https://github.com/Yujun-Won/Dancify/assets/124374862/482a1b50-4951-43b9-8f1b-126f2670cbe4">
+<img width="2044" alt="댄서게시판4" src="https://github.com/Yujun-Won/Dancify/assets/124374862/6842b413-909f-4cbe-9547-6c0dc4f5c51f">
+
 
 ### **2.2 자랑 게시판**
 
 - 자랑 게시판을 통해 자신이 춘 춤 영상을 공유할 수 있습니다.
 
-<img width="2044" alt="자랑게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/2d63b539-7ba9-4a75-8ab0-cbe9cf032510">
-<img width="2044" alt="자랑게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/72bdc06f-3d37-4754-95c0-63e1430ebf61">
+<img width="2044" alt="자랑게시판1" src="https://github.com/Yujun-Won/Dancify/assets/124374862/ad0ba0a0-5e2c-4083-8476-8ea3b7886f56">
+<img width="2044" alt="자랑게시판2" src="https://github.com/Yujun-Won/Dancify/assets/124374862/ec5bc7c4-cf8a-44a9-8906-f2347b992fcf">
 
 
 ### **2.3 자유 게시판**
 
 - 자유 게시판을 통해 사람들과 소통할 수 있습니다.
 
-<img width="2044" alt="자유게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/79c8a62e-e195-4efc-838d-672d6fe3813b">
-<img width="2044" alt="자유게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/feb06802-c04c-4f0d-b625-b1b201147bd7">
+<img width="2044" alt="자유게시판1" src="https://github.com/Yujun-Won/Dancify/assets/124374862/7e844859-eea9-44bb-bb08-17745b4db311">
+<img width="2044" alt="자유게시판2" src="https://github.com/Yujun-Won/Dancify/assets/124374862/e5a222c4-044f-4d1b-8025-d9b6461e8cb5">
 
 
 ### **2.4 피드백 동영상**
@@ -73,23 +74,23 @@
 - 자신이 춘 춤 영상을 관리하고 댄서에게 피드백을 요청할 수 있습니다.
 - 신체 부위별 AI 피드백을 받을 수 있습니다.
 
-<img width="2044" alt="피드백게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/77f7416d-1ee7-4074-bfa9-7b02c37fc865">
+<img width="2044" alt="피드백게시판" src="https://github.com/Yujun-Won/Dancify/assets/124374862/c0e8e8b9-ef47-4755-b0cd-befa70f23f86">
 
 <br>
 
 ## **3. 프로젝트 아키텍처**
 
 ### Infrastructure
-![인프라](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/1ad1ec13-5500-43fd-b791-edd9c838adba)
+![인프라](https://github.com/Yujun-Won/Dancify/assets/124374862/b004ae46-de26-4709-a76a-1e3f0322d967)
 
 ### ERD
-![ERD](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/ab4db85e-9287-44f5-852c-1b9327d72e89)
+![ERD](https://github.com/Yujun-Won/Dancify/assets/124374862/2ea39503-ddfe-49c1-b83d-c6368a8142fc)
 
 <br>
 
 ## **4. 데이터셋**
 
-<img width="869" alt="데이터셋" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/744a3d41-4574-40a0-8ecd-5a5eee11827d">
+<img width="869" alt="데이터셋" src="https://github.com/Yujun-Won/Dancify/assets/124374862/39ceb91e-dc10-4772-a058-d2df264858b7">
 
 [데이터셋 페이지로 이동 🚀](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=52)
 
